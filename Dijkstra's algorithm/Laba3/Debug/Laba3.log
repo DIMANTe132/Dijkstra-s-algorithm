@@ -1,0 +1,10 @@
+﻿  Laba3.cpp
+C:\Users\qweds\source\repos\Laba3\Laba3\Laba3.cpp(338,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\qweds\source\repos\Laba3\Laba3\Laba3.cpp(293,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\qweds\source\repos\Laba3\Laba3\Laba3.cpp(504): message :  выполняется компиляция ссылки на экземпляр шаблон функции "std::string Dijkstra<std::vector<Element,std::allocator<_Ty>>>(const T *,int,int,int)"
+C:\Users\qweds\source\repos\Laba3\Laba3\Laba3.cpp(504): message :         with
+C:\Users\qweds\source\repos\Laba3\Laba3\Laba3.cpp(504): message :         [
+C:\Users\qweds\source\repos\Laba3\Laba3\Laba3.cpp(504): message :             _Ty=Element,
+C:\Users\qweds\source\repos\Laba3\Laba3\Laba3.cpp(504): message :             T=std::vector<Element,std::allocator<Element>>
+C:\Users\qweds\source\repos\Laba3\Laba3\Laba3.cpp(504): message :         ]
+  Laba3.vcxproj -> C:\Users\qweds\source\repos\Laba3\Debug\Laba3.exe
